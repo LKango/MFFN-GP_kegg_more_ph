@@ -12,8 +12,8 @@ A Convolutional Neural Network Based Model with Multiple Environmental Parameter
 [(Back to top)](#table-of-contents)
 
 ```
-conda create -n DeepEnzyme python=3.9
-conda activate DeepEnzyme
+conda create -n MFNN_GP python=3.9
+conda activate MFNN_GP
 pip install -r requirements.txt
 ```
 
